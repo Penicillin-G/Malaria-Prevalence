@@ -6,7 +6,12 @@
 ## Dataset
 
 ## Tools and Libraries
-
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+  
 ## Analysis Performed
 
 ## Project Structure
