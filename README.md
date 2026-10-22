@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib seaborn
 4. Run the analysis script:
 
 ```bash
-python cardio_data_analysis.py
+python malaria.py
 ```
 
 Ensure that `estimated_numbers_of_malaria.csv` is in the same directory as the Python script.
